@@ -1,5 +1,5 @@
 # ML HER2 Inhibitor Discovery Pipeline
-**MSc Project — [Krishna Prajati]**
+**MSc Project — [Krishna Prajapati]**
 
 > An integrated computational pipeline using **XGBoost** and **LightGBM** to predict HER2 inhibitors from ChEMBL/PubChem/ZINC chemical libraries, followed by docking validation (HER2, PDB: 3PP0).
 
