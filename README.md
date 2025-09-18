@@ -14,12 +14,11 @@ This project demonstrates an ML-first approach to virtual screening for HER2-tar
 - Produced top candidates for docking and benchmarked against Neratinib & Lapatinib.
 
 ## Results (summary)
-- **LightGBM:** Accuracy = 1.000 | ROC-AUC = 1.000 | F1 = 1.000  
-- **XGBoost:** Accuracy ≈ 0.9993 | ROC-AUC ≈ 0.99998 | F1 ≈ 0.9995  
-- Feature importance: A small subset of descriptors strongly influences predictions (see `figures/feature_importance.png`).
+      Model  Accuracy  ROC_AUC       F1  Precision  Recall
+0   XGBoost     0.999  0.99996  0.99936    0.99873     1.0
+1  LightGBM     1.000  1.00000  1.00000    1.00000     1.0
+figures/feature_imp<img width="1091" height="490" alt="image" src="https://github.com/user-attachments/assets/98c15373-c6d0-49b3-b071-a79267234776" />
+ortance.png.
 
-> *See `notebooks/` for detailed code, evaluation, and SHAP analysis.*
-
-## Repository Structure
 
 
