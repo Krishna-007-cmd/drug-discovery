@@ -19,6 +19,7 @@ This project demonstrates an ML-first approach to virtual screening for HER2-tar
 1  LightGBM     1.000  1.00000  1.00000    1.00000     1.0
 figures/feature_imp<img width="1091" height="490" alt="image" src="https://github.com/user-attachments/assets/98c15373-c6d0-49b3-b071-a79267234776" />
 ortance.png.
+![results](https://github.com/user-attachments/assets/eba411a3-6b9a-411b-bef4-ae7b756e3332)
 
 
 
